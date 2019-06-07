@@ -1,3 +1,5 @@
+// Reference
+// - Knowledge from udacity.com (https://knowledge.udacity.com/)
 // Select color input
 const color = document.getElementById("colorPicker");
 
