@@ -28,7 +28,5 @@ function makeGrid() {
                column.style.backgroundColor = color.value
          })
      }
-}
-
-
+  }
 }
