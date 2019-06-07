@@ -24,6 +24,7 @@ function makeGrid() {
         for (let c = 1; c <= width; c++){
             let column = document.createElement('td');
             canvas.appendChild(column);
+          //   Changes the background color to the selected color of the cell when clicked
             column.addEventListener('click', function(){
                column.style.backgroundColor = color.value
          })
